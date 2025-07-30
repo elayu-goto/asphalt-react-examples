@@ -1,10 +1,12 @@
 {
-  "name": "asphalt-react-examples",
+  "name": "asphr-examples",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/elayu-goto/asphalt-react-examples/issues"
   },
-  "homepage": "https://github.com/elayu-goto/asphalt-react-examples#readme"
+  "homepage": "https://github.com/elayu-goto/asphalt-react-examples#readme",
+  "devDependencies": {
+    "release-it": "^19.0.4"
+  }
 }
