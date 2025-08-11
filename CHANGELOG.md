@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.3](https://github.com/elayu-goto/asphalt-react-examples/compare/0.1.2...0.1.3) (2025-08-11)
+
+### Bug Fixes
+
+* update commit message for release ([c4fb854](https://github.com/elayu-goto/asphalt-react-examples/commit/c4fb854835c71bef95cf0983f638708315b3b1fc))
+
 ## [0.1.2](https://github.com/elayu-goto/asphalt-react-examples/compare/0.1.1...0.1.2) (2025-08-11)
 
 ### Bug Fixes
