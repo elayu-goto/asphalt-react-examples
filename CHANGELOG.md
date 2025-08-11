@@ -1,4 +1,12 @@
-### Changelog
+# Changelog
+
+## [0.1.2](https://github.com/elayu-goto/asphalt-react-examples/compare/0.1.1...0.1.2) (2025-08-11)
+
+### Bug Fixes
+
+* update ci release ([470d3b2](https://github.com/elayu-goto/asphalt-react-examples/commit/470d3b21af5273ade7a50fe6c90b667f9c4037aa))
+
+##
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
