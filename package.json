@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/elayu-goto/asphalt-react-examples#readme",
   "devDependencies": {
-    "auto-changelog": "^2.5.0",
+    "@release-it/conventional-changelog": "^10.0.1",
     "release-it": "^19.0.4"
   }
 }
