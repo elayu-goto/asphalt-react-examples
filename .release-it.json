@@ -13,8 +13,5 @@
       },
       "infile": "CHANGELOG.md"
     }
-  },
-  "hooks": {
-    "after:bump": "npx auto-changelog -p"
   }
 }
